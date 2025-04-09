@@ -1,4 +1,4 @@
- ### 👋 Hi, I’m [Your Name]  
+ ### 👋 Hi, I’m Mohammad Sohail Ahmed  
 **Senior BI Developer | Scrum Master | Data Architect**  
 *Turning raw data into strategic insights with cloud-first solutions*  
 
